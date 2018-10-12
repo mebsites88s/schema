@@ -1,0 +1,41 @@
+  <!-- Schema -->
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "LocalBusiness",
+  "name": "Mebsites SEO and Web Hosting",
+  "url": "https://mebsites.com/seo-gold-coast",
+  "logo": "https://mebsites.com/wp-content/themes/mebsites/images/mebsites-gold-coast-website-designers-and-developers.svg",
+  "image": "https://mebsites.com/images/about-mebmedia-header.jpg",
+  "telephone":"+611300632932",
+  "description": "Search Engine Optimising Expert Services ✅ REAL SEO Gold Coast Rankings ✅ PPC ✅ Improve your Websites Ranking ✅ ☎️ 1300 632 932 ☎️ LIVE CHAT 💬",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 Paruna Pl",
+    "addressLocality": "Ashmore",
+    "addressRegion": "Queensland",
+    "postalCode": "4214",
+    "addressCountry": "Australia"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-27.993521",
+    "longitude": "153.3707683"
+  },
+  "hasMap": "https://www.google.com.au/maps/place/Mebsites+SEO+and+Web+Hosting/@-27.993521,153.3707683,17z/data=!3m1!4b1!4m5!3m4!1s0x6b910524fbc56c81:0x599e323e7bfba791!8m2!3d-27.993521!4d153.372957",
+  "openingHours": "Mo, Tu, We, Th, Fr, Sa 09:00-18:00 Su 10:00-18:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "telephone": "+61-1300-632-932"
+  },
+  "aggregateRating": {
+    "ratingValue": "5",
+    "reviewCount": "115"
+  },
+  "priceRange" : "To Suit"
+}
+ </script>
+ <!--/ Schema -->  
+
+                                    
