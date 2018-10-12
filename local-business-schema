@@ -1,4 +1,6 @@
-  <!-- Schema -->
+<!-- local business Schema created by Mebsites -->
+<!-- copy and paste into your header-->
+
 <script type='application/ld+json'> 
 {
   "@context": "http://www.schema.org",
