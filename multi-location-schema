@@ -1,0 +1,128 @@
+<!--created by mebsites-->
+<!--Insert into you header-->
+
+<script type="application/ld+json">
+{
+  "@context": {
+    "@vocab": "http://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://mebsites.com",
+      "@type": "Organization",
+      "name": "Mebsites",
+    "url" : "https://mebsites.com",
+    "logo" : "https://mebsites.com/wp-content/uploads/2018/01/mebsites-logo.jpg",
+    "contactPoint":{
+    "@type":"ContactPoint",
+    "telephone":"+611300632932",
+    "url":"https://m.me/mebsites",
+    "contactType":"customer support"
+    },
+      "sameAs" : [ "https://facebook.com/mebsites",
+          "https://twitter.com/mebsites",
+          "https://www.instagram.com/mebsitesreal",
+          "https://www.youtube.com/c/MebsitescomauBundall",
+          "https://www.linkedin.com/company/mebsites",
+          "https://au.pinterest.com/mebsites",
+          "https://soundcloud.com/mebsites",
+          "http://mebsite.tumblr.com",
+          "https://github.com/mebsites88s",
+          "https://www.reddit.com/r/mebsites",
+          "http://be.net/mebsites",
+          "https://snapchat.com/add/mebsites",
+          "https://www.goodfirms.co/companies/view/5567/mebsites" ] 
+    },
+    {
+      "@type": "LocalBusiness",
+      "parentOrganization": {
+          "name" : "Mebsites"
+      },
+     "name" : "Mebsites SEO and Web Hosting",
+     "image" : "https://mebsites.com/wp-content/uploads/2018/08/seo-gurus-snippetr.jpg",
+      "address": {
+          "@type" : "PostalAddress",
+          "streetAddress": "3 Paruna Pl",
+          "addressLocality": "Ashmore",
+          "addressRegion": "Queensland",
+          "addressCountry": "Australia",
+          "postalCode": "4214",
+          "telephone" : "+611300632932"
+          },
+      "openingHours": [ "Mo, Tu, We, Th, Fr, Sa, Su 09:00-18:00" ],
+      "hasmap" : "https://www.google.com.au/maps/place/Mebsites+SEO+and+Web+Hosting/@-27.993521,153.3707683,17z/data=!3m1!4b1!4m5!3m4!1s0x6b910524fbc56c81:0x599e323e7bfba791!8m2!3d-27.993521!4d153.372957",
+      "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-27.993521",
+    "longitude": "153.3707683"
+    },
+    "aggregateRating":{
+        "@type":"AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "115"
+        },
+     "priceRange" : "To Suit"
+    },
+    {
+      "@type": "LocalBusiness",
+      "parentOrganization": {
+          "name" : "Mebsites Santa Barbara SEO and Web Hosting"
+      },
+     "name" : "Mebsites SEO and Web Hosting",
+     "image" : "https://mebsites.com/wp-content/uploads/2018/08/seo-gurus-snippetr.jpg",
+      "address": {
+          "@type" : "PostalAddress",
+          "streetAddress": "808a State St",
+          "addressLocality": "Santa Barbara",
+          "addressRegion": "California",
+          "addressCountry": "USA",
+          "postalCode": "93101",
+          "telephone" : "+1 805-621-7033"
+          },
+      "openingHours": [ "Mo, Tu, We, Th, Fr, Sa, Su 09:00-18:00" ],
+      "hasmap" : "https://www.google.com.au/maps/place/Mebsites+Santa+Barbara+SEO+and+Web+Hosting/@34.0899991,-128.6986946,5z/data=!3m1!4b1!4m5!3m4!1s0x80e91558e26be8b5:0xf091900e6204083e!8m2!3d34.4201529!4d-119.6995739",
+      "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.0899991",
+    "longitude": "-128.6986946"
+    },
+    "aggregateRating":{
+        "@type":"AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "115"
+        },
+     "priceRange" : "To Suit"
+    },
+    {
+      "@type": "LocalBusiness",
+      "parentOrganization": {
+          "name" : "Mebsites"
+      },
+     "name" : "Mebsites Auckland SEO and Web Hosting",
+     "image" : "https://mebsites.com/wp-content/uploads/2018/08/seo-gurus-snippetr.jpg",
+      "address": {
+          "@type" : "PostalAddress",
+          "streetAddress": "Not Disclosed",
+          "addressLocality": "Ostend",
+          "addressRegion": "Auckland",
+          "addressCountry": "New Zealand",
+          "postalCode": "1081",
+          "telephone" : "+64 9-889 3751"
+          },
+      "openingHours": [ "Mo, Tu, We, Th, Fr, Sa, Su 09:00-18:00" ],
+      "hasmap" : "https://www.google.com.au/maps/place/Mebsites+Auckland+SEO+and+Web+Hosting/@-40.7715427,167.4655377,6z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47d6214cd0cb:0x5b5a9b8fc12aa216!8m2!3d-41.1438887!4d172.9098616",
+      "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-40.7715427",
+    "longitude": "167.4655377"
+    },
+    "aggregateRating":{
+        "@type":"AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "115"
+        },
+     "priceRange" : "To Suit"   
+        }
+  ]
+}
+</script>
