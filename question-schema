@@ -1,0 +1,17 @@
+<!--to make question appear in serp results-->
+<!--add this to your page-->
+
+<div class="panel panel-white panel-icon-blue-dark" itemscope itemtype="http://schema.org/Question">
+      <div class="panel-heading" role="tab" id="hw-1">
+          <div class="panel-title fs-regular text-bold">
+             <a role="button" data-toggle="collapse" data-parent="#accordion-white" href="#collapse-hw-1" aria-expanded="true" aria-controls="collapse-hw-1">
+                 <span class="panel-title-text flex-cell" itemprop="name">Add Question here</span>
+             </a>
+          </div>
+      </div>
+      <div id="collapse-hw-1" class="panel-collapse collapse  in " role="tabpanel" aria-labelledby="hw-1" itemprop="suggestedAnswer acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+           <div class="panel-body fs-epsilon text-light" itemprop="text">
+							<div id="hs_cos_wrapper_module_1534203044734527_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="inline_rich_text" data-hs-cos-field="accordion_content"><p>add answer to appear in serps here</p></div>
+           </div>
+      </div>
+   </div>
