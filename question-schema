@@ -1,5 +1,5 @@
 <!--to make question appear in serp results-->
-<!--add this to your page-->
+<!--add this to the body of your page-->
 
 <div class="panel panel-white panel-icon-blue-dark" itemscope itemtype="http://schema.org/Question">
       <div class="panel-heading" role="tab" id="hw-1">
