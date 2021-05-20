@@ -1,0 +1,25 @@
+ <!--Professional Schema-->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Service",
+        "name": "Type of service here",
+        "provider": {
+            "@type": "ProfessionalService",
+            "name": "business name here",
+            "image": "nice square image url here",
+            "telephone": "phone number as found in GMB listing here",
+        "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "street as per GMB",
+        "addressLocality": "as per GMB",
+        "addressRegion": "as per GMB",
+        "postalCode": "as per GMB",
+        "addressCountry": "as per GMB"  
+        },
+         "paymentAccepted":"Visa, Master Card, EFTPOS, Direct deposit, Cash",
+ "priceRange":"text or dollar amount here"
+        }}
+    }</script>
+
+<!--/ pro schema -->
