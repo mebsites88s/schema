@@ -1,0 +1,37 @@
+<!-- Professional Schema created by Mebsites -->
+<!-- copy and paste into your header-->
+
+<script type='application/ld+json'> 
+{
+  "@context": "https://www.schema.org",
+  "@type": "ProfessionalService",
+  "name": "First Choice Removals",
+  "url": "hhttps://firstchoiceremovals.com.au/",
+  "logo": "https://firstchoiceremovals.com.au/wp-content/themes/first_choice/images/logo.png",
+  "image": "https://firstchoiceremovals.com.au/wp-content/uploads/2015/10/home-banner.png",
+  "description": "Top Rated Local Friendly Furniture Removalist Companies with 20 years Exp. ✅ Cheap Furniture Removals ✅ Interstate removalists & Backloading ✅ Removal Quotes ✅ Local Friendly Furniture removal service guys - Small or Large Removals, Business removals, Highrise, Duplexes, apartment and offices QLD furniture movers - Online Moving House quoting ☎Call For Info☎",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Burleigh Heads",
+    "addressRegion": "Queensland",
+    "postalCode": "4220",
+    "addressCountry": "Australia",
+    "telephone": "+61-7-5576-7618"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-27.9540613",
+    "longitude": "152.2509151"
+  },
+  "hasMap": "https://g.page/firstchoiceremovals-gold-coast",
+  "openingHours": "Mo, Tu, We, Th, Fr, Sa, Su 08:00-18:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "telephone": "+61-7-5576-7618"
+  },
+    "priceRange" : "To Suit"
+}
+ </script>
+ <!--/ Schema --> 
