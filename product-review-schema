@@ -1,0 +1,29 @@
+<!-- Schema & Structured Data Product review mebsites - -->
+<script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "First Choice Removals",
+    "image": "https://firstchoiceremovals.com.au/wp-content/uploads/2015/10/home-banner.png",
+    "description": "Looking for the best removalist on the Gold Coast? Our 100+ ⭐ 5 Star removalist Google reviews speak to the quality of work and professionalism that you can expect from First Choice Removals. Click to read reviews and get an online quote.",
+    "brand": "First Choice Removals",
+    "mpn": "First Choice Removals",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "50"
+    },
+    "review": {
+        "@type": "Review",
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.9",
+            "bestRating": "5",
+            "worstRating": "3"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Google Reviews"
+        }
+    }
+}</script>      
+<!--/review schema-->             
